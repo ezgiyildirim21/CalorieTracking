@@ -21,6 +21,8 @@ namespace Calori
             LoadData();
         }
 
+
+
         private void LoadData()
         {
             cboUserEmail.Items.Clear();
